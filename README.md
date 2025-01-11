@@ -13,11 +13,6 @@ This project implements a region-based image compression system utilizing image 
 - Image Segmentation Techniques: Thresholding, Canny edge detection.
 - Compression Algorithms: JPEG (DCT) and wavelet-based compression.
 
-### Installation and Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/viniya-56/Region-Based-Image-Compression-Using-Image-Segmentation.git
-
 Open the project files in MATLAB.
 Load an image into the MATLAB environment.
 Run the main script to perform region-based image compression.
