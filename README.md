@@ -11,9 +11,4 @@ This project implements a region-based image compression system utilizing image 
 ### Technologies Used
 - MATLAB: For image processing, segmentation, and compression.
 - Image Segmentation Techniques: Thresholding, Canny edge detection.
-- Compression Algorithms: JPEG (DCT) and wavelet-based compression.
-
-Open the project files in MATLAB.
-Load an image into the MATLAB environment.
-Run the main script to perform region-based image compression.
-Apply selected compression techniques to the image, preserving ROI quality.
+- Compression Algorithms: JPEG (Discrete Cosine Transform) and wavelet transform based compression.
